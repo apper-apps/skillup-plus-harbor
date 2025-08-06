@@ -1,0 +1,254 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "title": "React 개발환경 설정하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 25,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "title": "컴포넌트와 JSX 기초",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 35,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 3,
+    "courseId": 1,
+    "title": "State와 Props 활용하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 40,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 4,
+    "courseId": 1,
+    "title": "이벤트 핸들링과 폼 처리",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 30,
+    "order": 4,
+    "completed": false
+  },
+  {
+    "Id": 5,
+    "courseId": 1,
+    "title": "React Hooks 완전 정복",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 45,
+    "order": 5,
+    "completed": false
+  },
+  {
+    "Id": 6,
+    "courseId": 2,
+    "title": "Node.js 설치와 기본 설정",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 20,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 7,
+    "courseId": 2,
+    "title": "Express.js 서버 구축하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 35,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 8,
+    "courseId": 2,
+    "title": "라우팅과 미들웨어 설정",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 40,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 9,
+    "courseId": 2,
+    "title": "MongoDB 연동과 스키마 설계",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 50,
+    "order": 4,
+    "completed": false
+  },
+  {
+    "Id": 10,
+    "courseId": 3,
+    "title": "UX 디자인 원칙과 사용자 리서치",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 45,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 11,
+    "courseId": 3,
+    "title": "정보 아키텍처와 사용자 플로우",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 40,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 12,
+    "courseId": 3,
+    "title": "와이어프레임과 프로토타이핑",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 55,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 13,
+    "courseId": 3,
+    "title": "디자인 시스템 구축하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 60,
+    "order": 4,
+    "completed": false
+  },
+  {
+    "Id": 14,
+    "courseId": 4,
+    "title": "D3.js 기초와 SVG 요소 다루기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 35,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 15,
+    "courseId": 4,
+    "title": "데이터 바인딩과 스케일 함수",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 40,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 16,
+    "courseId": 4,
+    "title": "인터랙티브 차트 만들기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 50,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 17,
+    "courseId": 5,
+    "title": "Python 기초와 BeautifulSoup 설치",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 25,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 18,
+    "courseId": 5,
+    "title": "HTML 파싱과 CSS 선택자",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 35,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 19,
+    "courseId": 5,
+    "title": "Selenium을 활용한 동적 페이지 스크래핑",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 45,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 20,
+    "courseId": 6,
+    "title": "머신러닝 개념과 TensorFlow 설치",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 30,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 21,
+    "courseId": 6,
+    "title": "선형 회귀 모델 구현하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 40,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 22,
+    "courseId": 6,
+    "title": "신경망과 딥러닝 기초",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 55,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 23,
+    "courseId": 7,
+    "title": "Vue.js 3 설치와 Composition API 소개",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 30,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 24,
+    "courseId": 7,
+    "title": "Reactivity와 ref, reactive 활용",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 35,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 25,
+    "courseId": 7,
+    "title": "Computed와 Watch API 마스터하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 40,
+    "order": 3,
+    "completed": false
+  },
+  {
+    "Id": 26,
+    "courseId": 8,
+    "title": "블록체인 기초 개념과 Ethereum 소개",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 45,
+    "order": 1,
+    "completed": false
+  },
+  {
+    "Id": 27,
+    "courseId": 8,
+    "title": "Solidity 언어 기초와 첫 스마트 컨트랙트",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 50,
+    "order": 2,
+    "completed": false
+  },
+  {
+    "Id": 28,
+    "courseId": 8,
+    "title": "DApp 프론트엔드 연동하기",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": 60,
+    "order": 3,
+    "completed": false
+  }
+]

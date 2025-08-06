@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "title": "React 완전 정복 과정",
+    "description": "React의 기초부터 고급 활용법까지 완벽하게 마스터하는 종합 과정입니다. 실습 위주의 커리큘럼으로 실무 능력을 키워보세요.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&h=450&fit=crop",
+    "type": "membership",
+    "createdAt": "2024-01-15T09:00:00Z",
+    "updatedAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Node.js 백엔드 개발 마스터",
+    "description": "Express.js부터 데이터베이스 연동, API 설계까지 백엔드 개발의 모든 것을 배우는 실무 중심 과정입니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800&h=450&fit=crop",
+    "type": "membership",
+    "createdAt": "2024-01-10T10:00:00Z",
+    "updatedAt": "2024-01-18T16:45:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "UI/UX 디자인 심화 과정",
+    "description": "사용자 경험을 고려한 인터페이스 디자인 원리와 실무에서 바로 적용할 수 있는 디자인 시스템을 학습합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=450&fit=crop",
+    "type": "master",
+    "createdAt": "2024-01-08T11:30:00Z",
+    "updatedAt": "2024-01-22T13:20:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "데이터 시각화 with D3.js",
+    "description": "D3.js를 활용한 고급 데이터 시각화 기법을 마스터하여 효과적인 데이터 스토리텔링을 구현해보세요.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
+    "type": "master",
+    "createdAt": "2024-01-12T08:45:00Z",
+    "updatedAt": "2024-01-19T15:10:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Python 웹 스크래핑 완성",
+    "description": "BeautifulSoup, Selenium을 활용한 웹 스크래핑 기법과 데이터 수집 자동화 시스템 구축 방법을 학습합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=800&h=450&fit=crop",
+    "type": "membership",
+    "createdAt": "2024-01-14T12:15:00Z",
+    "updatedAt": "2024-01-21T10:30:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "머신러닝 실전 프로젝트",
+    "description": "TensorFlow와 scikit-learn을 활용한 실제 프로젝트 중심의 머신러닝 과정으로 AI 전문가로 성장해보세요.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=450&fit=crop",
+    "type": "master",
+    "createdAt": "2024-01-05T14:00:00Z",
+    "updatedAt": "2024-01-23T11:45:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Vue.js 3 Composition API",
+    "description": "Vue.js 3의 Composition API를 활용한 모던 프론트엔드 개발 기법과 상태 관리 패턴을 마스터합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop",
+    "type": "membership",
+    "createdAt": "2024-01-07T09:30:00Z",
+    "updatedAt": "2024-01-17T14:20:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "블록체인 개발 심화",
+    "description": "Ethereum 스마트 컨트랙트 개발과 DApp 구축을 통해 블록체인 생태계의 핵심 기술을 습득합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1639322537504-6427a16b0a28?w=800&h=450&fit=crop",
+    "type": "master",
+    "createdAt": "2024-01-03T16:45:00Z",
+    "updatedAt": "2024-01-24T12:30:00Z"
+  }
+]

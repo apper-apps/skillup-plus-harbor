@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "title": "2024년 웹 개발 트렌드와 전망",
+    "content": "웹 개발 생태계는 끊임없이 변화하고 있습니다. 2024년에는 어떤 기술들이 주목받을까요?\n\n**1. 서버 컴포넌트의 부상**\nReact Server Components와 Next.js의 App Router가 프론트엔드 개발의 패러다임을 바꾸고 있습니다. 서버 사이드 렌더링과 클라이언트 사이드 인터렉션의 완벽한 조화를 이룰 수 있게 되었죠.\n\n**2. AI 기반 개발 도구의 확산**\nGitHub Copilot, ChatGPT와 같은 AI 도구들이 개발자의 생산성을 크게 향상시키고 있습니다. 코드 자동 완성부터 버그 수정, 리팩토링까지 AI의 도움을 받을 수 있는 영역이 계속 확장되고 있습니다.\n\n**3. 엣지 컴퓨팅의 대중화**\nCloudflare Workers, Vercel Edge Functions 등 엣지 런타임이 점점 더 중요해지고 있습니다. 사용자에게 더 가까운 곳에서 코드를 실행하여 지연시간을 최소화할 수 있죠.\n\n**4. 타입 안정성의 중요성**\nTypeScript는 이제 선택이 아닌 필수가 되었습니다. 대규모 프로젝트에서 타입 안정성은 버그를 사전에 방지하고 개발자 경험을 크게 개선합니다.\n\n**5. 마이크로 프론트엔드 아키텍처**\n큰 애플리케이션을 작은 단위로 나누어 독립적으로 개발하고 배포하는 마이크로 프론트엔드 패턴이 주목받고 있습니다.\n\n이러한 트렌드들을 미리 파악하고 학습해두면, 경쟁력 있는 개발자로 성장할 수 있을 것입니다.",
+    "excerpt": "2024년 웹 개발 생태계의 주요 트렌드를 살펴보고, 앞으로 주목해야 할 기술들에 대해 알아봅니다. 서버 컴포넌트, AI 기반 도구, 엣지 컴퓨팅 등 핵심 키워드들을 정리했습니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&h=450&fit=crop",
+    "authorId": 1,
+    "publishedAt": "2024-01-25T10:00:00Z",
+    "views": 1245,
+    "createdAt": "2024-01-25T10:00:00Z",
+    "updatedAt": "2024-01-25T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "효율적인 코드 리뷰 문화 만들기",
+    "content": "좋은 코드 리뷰는 팀의 생산성과 코드 품질을 동시에 향상시킵니다. 어떻게 하면 효율적인 코드 리뷰 문화를 만들 수 있을까요?\n\n**1. 명확한 가이드라인 설정**\n• 코드 스타일 가이드 준수\n• 함수/메서드의 적절한 크기 유지\n• 의미 있는 변수명과 주석 작성\n• 테스트 코드 포함 여부 확인\n\n**2. 건설적인 피드백 제공**\n코드 리뷰는 비판이 아닌 학습과 개선의 기회입니다. '왜 이렇게 구현했나요?'보다는 '이런 방식은 어떨까요?'라는 제안형 피드백이 더 효과적입니다.\n\n**3. 적절한 리뷰 크기**\n한 번에 너무 많은 변경사항을 리뷰하지 않도록 합니다. 200-400줄 정도가 적당한 크기입니다. 큰 기능은 여러 개의 작은 PR로 나누는 것이 좋습니다.\n\n**4. 자동화 도구 활용**\n• ESLint, Prettier 등으로 코드 스타일 자동 검사\n• CI/CD 파이프라인에서 테스트 자동 실행\n• SonarQube 등으로 코드 품질 자동 분석\n\n**5. 팀원 간 지식 공유**\n코드 리뷰는 단순히 버그를 찾는 것이 아닙니다. 서로의 지식과 경험을 공유하는 소중한 기회입니다.\n\n**6. 시간 관리**\n리뷰 요청 후 24시간 이내에 피드백을 제공하는 것을 목표로 합니다. 빠른 피드백은 개발 흐름을 유지하는 데 중요합니다.\n\n좋은 코드 리뷰 문화는 하루아침에 만들어지지 않습니다. 꾸준한 노력과 팀원들의 협력이 필요합니다.",
+    "excerpt": "팀의 코드 품질과 생산성을 높이는 효율적인 코드 리뷰 문화를 구축하는 방법을 소개합니다. 가이드라인 설정부터 피드백 제공 방법까지 실무에 바로 적용할 수 있는 팁들을 정리했습니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=800&h=450&fit=crop",
+    "authorId": 1,
+    "publishedAt": "2024-01-23T14:30:00Z",
+    "views": 892,
+    "createdAt": "2024-01-23T14:30:00Z",
+    "updatedAt": "2024-01-23T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "React 성능 최적화 실전 가이드",
+    "content": "React 애플리케이션의 성능을 향상시키는 것은 사용자 경험에 직접적인 영향을 미칩니다. 실무에서 바로 적용할 수 있는 최적화 기법들을 알아보겠습니다.\n\n**1. 불필요한 리렌더링 방지**\n\n```jsx\n// React.memo로 컴포넌트 메모이제이션\nconst ExpensiveComponent = React.memo(({ data, onUpdate }) => {\n  return (\n    <div>\n      {data.map(item => <Item key={item.id} data={item} />)}\n    </div>\n  );\n});\n\n// useCallback으로 함수 메모이제이션\nconst Parent = () => {\n  const [count, setCount] = useState(0);\n  \n  const handleUpdate = useCallback((id) => {\n    // 업데이트 로직\n  }, []);\n  \n  return <ExpensiveComponent data={data} onUpdate={handleUpdate} />;\n};\n```\n\n**2. 코드 스플리팅과 지연 로딩**\n\n```jsx\n// React.lazy를 사용한 컴포넌트 지연 로딩\nconst LazyComponent = React.lazy(() => import('./LazyComponent'));\n\nfunction App() {\n  return (\n    <Suspense fallback={<div>Loading...</div>}>\n      <LazyComponent />\n    </Suspense>\n  );\n}\n```\n\n**3. 가상화(Virtualization) 구현**\n큰 목록을 렌더링할 때는 react-window나 react-virtualized 같은 라이브러리를 사용하여 보이는 영역의 항목만 렌더링합니다.\n\n**4. 상태 관리 최적화**\n• 전역 상태와 지역 상태를 적절히 분리\n• Context API 사용 시 Provider 분할\n• 상태 정규화로 중복 데이터 제거\n\n**5. 번들 크기 최적화**\n• Tree shaking으로 사용하지 않는 코드 제거\n• 라이브러리 선택 시 번들 크기 고려\n• 이미지 최적화와 적절한 포맷 선택\n\n**6. 메모리 누수 방지**\n```jsx\nuseEffect(() => {\n  const subscription = someObservable.subscribe();\n  \n  return () => {\n    subscription.unsubscribe(); // 정리 작업 필수\n  };\n}, []);\n```\n\n성능 최적화는 측정 가능해야 합니다. React DevTools Profiler를 활용하여 성능 병목 지점을 정확히 파악한 후 개선하는 것이 중요합니다.",
+    "excerpt": "React 애플리케이션의 성능을 향상시키는 실전 기법들을 소개합니다. 불필요한 리렌더링 방지, 코드 스플리팅, 가상화 구현 등 즉시 적용 가능한 최적화 방법들을 다룹니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=450&fit=crop",
+    "authorId": 1,
+    "publishedAt": "2024-01-20T16:15:00Z",
+    "views": 2103,
+    "createdAt": "2024-01-20T16:15:00Z",
+    "updatedAt": "2024-01-20T16:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "TypeScript 고급 타입 활용법",
+    "content": "TypeScript의 고급 타입 시스템을 마스터하면 더 안전하고 표현력 있는 코드를 작성할 수 있습니다. 실무에서 자주 사용되는 고급 패턴들을 살펴보겠습니다.\n\n**1. 유틸리티 타입 활용**\n\n```typescript\n// Partial - 모든 속성을 선택적으로 만들기\ninterface User {\n  id: number;\n  name: string;\n  email: string;\n}\n\nfunction updateUser(id: number, updates: Partial<User>) {\n  // updates에는 id, name, email 중 일부만 포함 가능\n}\n\n// Pick - 특정 속성만 선택\ntype UserSummary = Pick<User, 'id' | 'name'>;\n\n// Omit - 특정 속성 제외\ntype CreateUserRequest = Omit<User, 'id'>;\n```\n\n**2. 조건부 타입 (Conditional Types)**\n\n```typescript\ntype ApiResponse<T> = T extends string \n  ? { message: T } \n  : { data: T };\n\n// string일 때는 { message: string }\n// 다른 타입일 때는 { data: T }\n```\n\n**3. 템플릿 리터럴 타입**\n\n```typescript\ntype EventName = 'click' | 'scroll' | 'mousemove';\ntype HandlerName = `on${Capitalize<EventName>}`;\n// 'onClick' | 'onScroll' | 'onMousemove'\n\ntype Color = 'red' | 'green' | 'blue';\ntype Shade = 'light' | 'dark';\ntype ColorVariant = `${Color}-${Shade}`;\n// 'red-light' | 'red-dark' | 'green-light' | ...\n```\n\n**4. 매핑된 타입 (Mapped Types)**\n\n```typescript\n// 모든 속성을 읽기 전용으로 만들기\ntype Readonly<T> = {\n  readonly [P in keyof T]: T[P];\n};\n\n// 모든 속성을 선택적으로 만들기\ntype Optional<T> = {\n  [P in keyof T]?: T[P];\n};\n```\n\n**5. 타입 가드 (Type Guards)**\n\n```typescript\nfunction isString(value: unknown): value is string {\n  return typeof value === 'string';\n}\n\nfunction processValue(value: unknown) {\n  if (isString(value)) {\n    // 이 블록에서 value는 string 타입으로 추론됨\n    console.log(value.toUpperCase());\n  }\n}\n```\n\n**6. 브랜드 타입 (Branded Types)**\n\n```typescript\ntype UserId = number & { __brand: 'UserId' };\ntype ProductId = number & { __brand: 'ProductId' };\n\nfunction getUser(id: UserId) {\n  // UserId만 받을 수 있음\n}\n\n// 일반 number를 UserId로 변환하는 헬퍼 함수\nfunction createUserId(id: number): UserId {\n  return id as UserId;\n}\n```\n\n**7. 인덱스 접근 타입**\n\n```typescript\ntype User = {\n  profile: {\n    name: string;\n    age: number;\n  };\n  settings: {\n    theme: 'light' | 'dark';\n  };\n};\n\ntype UserProfile = User['profile']; // { name: string; age: number; }\ntype Theme = User['settings']['theme']; // 'light' | 'dark'\n```\n\nTypeScript의 타입 시스템을 깊이 이해하면 런타임 에러를 컴파일 타임에 잡을 수 있고, 더 나은 개발자 경험을 얻을 수 있습니다.",
+    "excerpt": "TypeScript의 고급 타입 시스템을 활용하는 방법을 상세히 알아봅니다. 유틸리티 타입, 조건부 타입, 템플릿 리터럴 타입 등 실무에서 바로 활용할 수 있는 고급 패턴들을 다룹니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&h=450&fit=crop",
+    "authorId": 1,
+    "publishedAt": "2024-01-18T11:20:00Z",
+    "views": 1756,
+    "createdAt": "2024-01-18T11:20:00Z",
+    "updatedAt": "2024-01-18T11:20:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "모던 CSS 레이아웃 마스터하기",
+    "content": "CSS Grid와 Flexbox는 현대 웹 개발의 핵심 레이아웃 기술입니다. 이 두 기술을 언제, 어떻게 사용해야 하는지 실전 예제와 함께 알아보겠습니다.\n\n**CSS Grid vs Flexbox: 언제 사용할까?**\n\n• **CSS Grid**: 2차원 레이아웃, 복잡한 레이아웃 구조\n• **Flexbox**: 1차원 레이아웃, 아이템 정렬과 배치\n\n**1. CSS Grid 활용법**\n\n```css\n/* 기본 그리드 컨테이너 */\n.grid-container {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n  gap: 2rem;\n  padding: 2rem;\n}\n\n/* 복잡한 레이아웃 예시 */\n.layout {\n  display: grid;\n  grid-template-areas: \n    \"header header header\"\n    \"sidebar main aside\"\n    \"footer footer footer\";\n  grid-template-rows: auto 1fr auto;\n  grid-template-columns: 200px 1fr 200px;\n  min-height: 100vh;\n}\n\n.header { grid-area: header; }\n.sidebar { grid-area: sidebar; }\n.main { grid-area: main; }\n.aside { grid-area: aside; }\n.footer { grid-area: footer; }\n```\n\n**2. Flexbox 마스터하기**\n\n```css\n/* 중앙 정렬의 다양한 방법 */\n.center-flex {\n  display: flex;\n  justify-content: center; /* 가로 중앙 */\n  align-items: center;     /* 세로 중앙 */\n}\n\n/* 카드 레이아웃 */\n.card-container {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 1rem;\n}\n\n.card {\n  flex: 1 1 300px; /* grow shrink basis */\n  min-width: 0;    /* flex item 오버플로우 방지 */\n}\n```\n\n**3. 반응형 디자인 패턴**\n\n```css\n/* 컨테이너 쿼리 활용 */\n.component {\n  container-type: inline-size;\n}\n\n@container (min-width: 400px) {\n  .component .title {\n    font-size: 2rem;\n  }\n}\n\n/* 클램프를 활용한 유연한 크기 조정 */\n.fluid-typography {\n  font-size: clamp(1rem, 2.5vw, 2rem);\n}\n\n.fluid-spacing {\n  padding: clamp(1rem, 5vw, 3rem);\n}\n```\n\n**4. 모던 CSS 기법**\n\n```css\n/* CSS 사용자 정의 속성 (CSS Variables) */\n:root {\n  --primary-color: #3b82f6;\n  --spacing-unit: 1rem;\n  --border-radius: 0.5rem;\n}\n\n.button {\n  background: var(--primary-color);\n  padding: calc(var(--spacing-unit) * 0.5) var(--spacing-unit);\n  border-radius: var(--border-radius);\n}\n\n/* 논리적 속성 사용 */\n.card {\n  margin-inline: auto;     /* margin-left와 margin-right */\n  padding-block: 2rem;     /* padding-top과 padding-bottom */\n  border-inline-start: 3px solid var(--primary-color);\n}\n```\n\n**5. 접근성을 고려한 레이아웃**\n\n```css\n/* 키보드 포커스 개선 */\n.focus-visible:focus-visible {\n  outline: 2px solid var(--primary-color);\n  outline-offset: 2px;\n}\n\n/* 모션 선호도 존중 */\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n  }\n}\n```\n\n**6. 성능을 고려한 CSS**\n\n```css\n/* GPU 가속 활용 */\n.smooth-animation {\n  transform: translateZ(0); /* 레이어 생성 강제 */\n  will-change: transform;   /* 브라우저에 최적화 힌트 제공 */\n}\n\n/* 효율적인 선택자 사용 */\n.card-title { /* 좋음: 클래스 선택자 */\n  font-weight: bold;\n}\n\ndiv div div span { /* 피해야 함: 복잡한 선택자 */\n  color: red;\n}\n```\n\n모던 CSS는 단순히 스타일링을 넘어서 사용자 경험과 접근성, 성능까지 고려해야 합니다. 새로운 기능들을 점진적으로 적용하며 견고한 레이아웃을 구축해보세요.",
+    "excerpt": "CSS Grid와 Flexbox를 중심으로 한 모던 CSS 레이아웃 기법을 상세히 다룹니다. 반응형 디자인, CSS 변수, 논리적 속성 등 최신 CSS 기능들을 실전 예제와 함께 소개합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop",
+    "authorId": 1,
+    "publishedAt": "2024-01-15T13:45:00Z",
+    "views": 1432,
+    "createdAt": "2024-01-15T13:45:00Z",
+    "updatedAt": "2024-01-15T13:45:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "웹 접근성: 모든 사용자를 위한 개발",
+    "content": "웹 접근성은 장애가 있는 사용자뿐만 아니라 모든 사용자에게 더 나은 경험을 제공합니다. 접근성을 고려한 개발 방법을 실전 예제와 함께 알아보겠습니다.\n\n**1. 시맨틱 HTML의 중요성**\n\n시맨틱 HTML은 접근성의 기초입니다. 스크린 리더와 같은 보조 기술이 콘텐츠를 올바르게 해석할 수 있게 도와줍니다.\n\n```html\n<!-- 좋은 예시 -->\n<main>\n  <article>\n    <header>\n      <h1>글 제목</h1>\n      <time datetime=\"2024-01-25\">2024년 1월 25일</time>\n    </header>\n    <p>글 내용...</p>\n  </article>\n  \n  <aside>\n    <h2>관련 글</h2>\n    <nav aria-label=\"관련 글\">\n      <ul>\n        <li><a href=\"#\">관련 글 1</a></li>\n        <li><a href=\"#\">관련 글 2</a></li>\n      </ul>\n    </nav>\n  </aside>\n</main>\n\n<!-- 피해야 할 예시 -->\n<div class=\"main\">\n  <div class=\"article\">\n    <div class=\"title\">글 제목</div>\n    <div class=\"content\">글 내용...</div>\n  </div>\n</div>\n```\n\n**2. ARIA 속성 활용법**\n\nARIA(Accessible Rich Internet Applications) 속성은 HTML만으로 표현하기 어려운 정보를 제공합니다.\n\n```html\n<!-- 버튼 상태 표시 -->\n<button aria-pressed=\"false\" onclick=\"toggleLike()\">\n  <span aria-hidden=\"true\">♡</span>\n  좋아요\n</button>\n\n<!-- 폼 필드 설명 -->\n<label for=\"password\">비밀번호</label>\n<input \n  type=\"password\" \n  id=\"password\" \n  aria-describedby=\"password-help\"\n  required\n>\n<div id=\"password-help\">\n  8자 이상, 대소문자와 숫자를 포함해주세요.\n</div>\n\n<!-- 라이브 영역 (동적 콘텐츠 알림) -->\n<div aria-live=\"polite\" id=\"status\">\n  <!-- 상태 메시지가 여기에 업데이트됨 -->\n</div>\n```\n\n**3. 키보드 네비게이션**\n\n마우스를 사용할 수 없는 사용자를 위해 키보드만으로도 모든 기능을 사용할 수 있어야 합니다.\n\n```html\n<!-- 드롭다운 메뉴 예시 -->\n<div class=\"dropdown\">\n  <button \n    aria-haspopup=\"true\" \n    aria-expanded=\"false\"\n    onclick=\"toggleDropdown()\"\n    onkeydown=\"handleDropdownKeydown(event)\"\n  >\n    메뉴 <span aria-hidden=\"true\">▼</span>\n  </button>\n  \n  <ul role=\"menu\" class=\"dropdown-menu\" hidden>\n    <li role=\"none\">\n      <a href=\"#\" role=\"menuitem\">메뉴 1</a>\n    </li>\n    <li role=\"none\">\n      <a href=\"#\" role=\"menuitem\">메뉴 2</a>\n    </li>\n  </ul>\n</div>\n```\n\n```javascript\nfunction handleDropdownKeydown(event) {\n  switch(event.key) {\n    case 'ArrowDown':\n      event.preventDefault();\n      openDropdown();\n      focusFirstMenuItem();\n      break;\n    case 'Escape':\n      closeDropdown();\n      break;\n  }\n}\n```\n\n**4. 색상과 대비**\n\n색상에만 의존하지 않고 정보를 전달해야 합니다.\n\n```css\n/* 나쁜 예시: 색상에만 의존 */\n.error {\n  color: red;\n}\n\n/* 좋은 예시: 아이콘과 함께 사용 */\n.error {\n  color: #d32f2f;\n  position: relative;\n  padding-left: 1.5rem;\n}\n\n.error::before {\n  content: \"⚠\";\n  position: absolute;\n  left: 0;\n  color: #d32f2f;\n}\n\n/* 대비 비율 확인 (WCAG 기준) */\n.text {\n  color: #333;          /* AAA 등급 */\n  background: #fff;\n}\n\n.button {\n  color: #fff;          /* AA 등급 */\n  background: #1976d2;\n}\n```\n\n**5. 이미지 접근성**\n\n```html\n<!-- 의미있는 이미지 -->\n<img \n  src=\"chart.png\" \n  alt=\"2024년 1분기 매출은 전년 동기 대비 15% 증가한 1,200만원을 기록했습니다.\"\n>\n\n<!-- 장식용 이미지 -->\n<img src=\"decoration.png\" alt=\"\" role=\"presentation\">\n\n<!-- 복잡한 차트나 그래프 -->\n<img \n  src=\"complex-chart.png\" \n  alt=\"분기별 매출 현황 차트\"\n  aria-describedby=\"chart-description\"\n>\n<div id=\"chart-description\" class=\"sr-only\">\n  <!-- 상세한 차트 설명 -->\n</div>\n```\n\n**6. 폼 접근성**\n\n```html\n<fieldset>\n  <legend>배송 정보</legend>\n  \n  <div class=\"form-group\">\n    <label for=\"name\">\n      받는 분 성함 <span aria-label=\"필수\">*</span>\n    </label>\n    <input \n      type=\"text\" \n      id=\"name\" \n      required \n      aria-invalid=\"false\"\n      aria-describedby=\"name-error\"\n    >\n    <div id=\"name-error\" class=\"error\" role=\"alert\" hidden>\n      성함을 입력해주세요.\n    </div>\n  </div>\n</fieldset>\n```\n\n**7. 접근성 테스트 방법**\n\n• **자동화 도구**: axe-core, Lighthouse 접근성 감사\n• **키보드 테스트**: Tab, Shift+Tab, Enter, Space, 화살표 키 사용\n• **스크린 리더 테스트**: NVDA, JAWS, VoiceOver 등\n• **색상 대비 검사**: WebAIM Color Contrast Checker\n\n접근성은 추가 비용이 아닌 모든 사용자에게 더 나은 경험을 제공하는 투자입니다. 개발 초기부터 접근성을 고려하면 나중에 수정하는 것보다 훨씬 효율적입니다.",
+    "excerpt": "웹 접근성의 중요성과 실무에서 적용할 수 있는 구체적인 방법들을 다룹니다. 시맨틱 HTML, ARIA 속성, 키보드 네비게이션 등 모든 사용자를 위한 포용적인 웹 개발 가이드를 제공합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=450&fit=crop",
+    "authorId": 1,
+    "publishedAt": "2024-01-12T15:00:00Z",
+    "views": 976,
+    "createdAt": "2024-01-12T15:00:00Z",
+    "updatedAt": "2024-01-12T15:00:00Z"
+  }
+]
