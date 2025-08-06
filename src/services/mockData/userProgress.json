@@ -1,0 +1,78 @@
+{
+  "userId": 1,
+  "overallProgress": 68,
+  "completedCourses": 12,
+  "totalStudyTime": 2340,
+  "achievements": 8,
+  "learningStreak": 5,
+  "lastActivityDate": "2024-01-25T10:30:00Z",
+  "recentActivity": [
+    {
+      "courseId": 1,
+      "progress": 85,
+      "lastAccessed": "2024-01-25T09:30:00Z"
+    },
+    {
+      "courseId": 3,
+      "progress": 45,
+      "lastAccessed": "2024-01-24T14:20:00Z"
+    },
+    {
+      "courseId": 5,
+      "progress": 92,
+      "lastAccessed": "2024-01-23T16:45:00Z"
+    },
+    {
+      "courseId": 2,
+      "progress": 73,
+      "lastAccessed": "2024-01-22T11:15:00Z"
+    }
+  ],
+  "weeklyProgress": [
+    {
+      "day": "월",
+      "minutes": 95
+    },
+    {
+      "day": "화",
+      "minutes": 120
+    },
+    {
+      "day": "수",
+      "minutes": 78
+    },
+    {
+      "day": "목",
+      "minutes": 110
+    },
+    {
+      "day": "금",
+      "minutes": 85
+    },
+    {
+      "day": "토",
+      "minutes": 45
+    },
+    {
+      "day": "일",
+      "minutes": 60
+    }
+  ],
+  "recentAchievements": [
+    {
+      "title": "완주왕",
+      "description": "10개 이상의 강의를 완주했습니다",
+      "unlockedAt": "2024-01-24T15:30:00Z"
+    },
+    {
+      "title": "꾸준함의 달인",
+      "description": "5일 연속으로 학습했습니다",
+      "unlockedAt": "2024-01-23T12:00:00Z"
+    },
+    {
+      "title": "학습 마라토너",
+      "description": "누적 학습 시간이 30시간을 넘었습니다",
+      "unlockedAt": "2024-01-22T18:45:00Z"
+    }
+  ]
+}

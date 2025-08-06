@@ -7,10 +7,10 @@ import Header from "@/components/organisms/Header";
 
 // Pages
 import HomePage from "@/components/pages/HomePage";
+import DashboardPage from "@/components/pages/DashboardPage";
 import MembershipPage from "@/components/pages/MembershipPage";
 import MasterPage from "@/components/pages/MasterPage";
 import InsightsPage from "@/components/pages/InsightsPage";
-
 function App() {
   return (
     <Router>
@@ -18,8 +18,9 @@ function App() {
         <Header />
         
         <main className="flex-1">
-          <Routes>
+<Routes>
             <Route path="/" element={<HomePage />} />
+            <Route path="/dashboard" element={<DashboardPage />} />
             <Route path="/membership" element={<MembershipPage />} />
             <Route path="/membership/:courseId" element={<MembershipPage />} />
             <Route path="/master" element={<MasterPage />} />

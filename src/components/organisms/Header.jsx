@@ -11,8 +11,9 @@ const Header = () => {
   // Mock user role - in real app this would come from context/auth
   const userRole = "admin";
   
-  const navItems = [
+const navItems = [
     { path: "/", label: "홈", icon: "Home" },
+    { path: "/dashboard", label: "대시보드", icon: "BarChart3" },
     { path: "/membership", label: "멤버십", icon: "Users" },
     { path: "/master", label: "마스터", icon: "Crown" },
     { path: "/insights", label: "인사이트", icon: "Lightbulb" }
